@@ -1,0 +1,177 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Кластеризация}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c88376f109aeeb9fb7c66e594b896b36}{%
+           family={Ершов},
+           familyi={Е\bibinitperiod},
+           given={КС},
+           giveni={К\bibinitperiod}}}%
+        {{hash=73efe6330830c6bb947995eed733c97a}{%
+           family={Романова},
+           familyi={Р\bibinitperiod},
+           given={ТН},
+           giveni={Т\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Федеральное государственное автономное образовательное учреждение высшего~…}%
+      }
+      \strng{namehash}{c0950a50042cfd402fb7180ad972fd8a}
+      \strng{fullhash}{c0950a50042cfd402fb7180ad972fd8a}
+      \strng{bibnamehash}{c0950a50042cfd402fb7180ad972fd8a}
+      \strng{authorbibnamehash}{c0950a50042cfd402fb7180ad972fd8a}
+      \strng{authornamehash}{c0950a50042cfd402fb7180ad972fd8a}
+      \strng{authorfullhash}{c0950a50042cfd402fb7180ad972fd8a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Новые информационные технологии в автоматизированных системах}
+      \field{title}{Анализ и классификация алгоритмов кластеризации}
+      \field{year}{2016}
+      \field{number}{19}
+      \range{number}{1}
+      \field{pages}{274\bibrangedash 279}
+      \range{pages}{6}
+    \endentry
+    \entry{Данные}{article}{useauthor=false}
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=b950acbc24fc7f97cf77635ec92187d1}{%
+           family={Поручиков},
+           familyi={П\bibinitperiod},
+           given={Михаил\bibnamedelima Алексеевич},
+           giveni={М\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{fc02e77f688df732541bafe41a1b31d2}
+      \strng{authornamehash}{fc02e77f688df732541bafe41a1b31d2}
+      \strng{authorfullhash}{fc02e77f688df732541bafe41a1b31d2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Самара: Изд-во Самар. ун-та}
+      \field{title}{Анализ данных}
+      \field{year}{2016}
+    \endentry
+    \entry{Метрики}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3834d0e5667c07843f2f45fa32b10a0e}{%
+           family={Гитис},
+           familyi={Г\bibinitperiod},
+           given={Л},
+           giveni={Л\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ЛитРес}%
+      }
+      \strng{namehash}{3834d0e5667c07843f2f45fa32b10a0e}
+      \strng{fullhash}{3834d0e5667c07843f2f45fa32b10a0e}
+      \strng{bibnamehash}{3834d0e5667c07843f2f45fa32b10a0e}
+      \strng{authorbibnamehash}{3834d0e5667c07843f2f45fa32b10a0e}
+      \strng{authornamehash}{3834d0e5667c07843f2f45fa32b10a0e}
+      \strng{authorfullhash}{3834d0e5667c07843f2f45fa32b10a0e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Статистическая классификация и кластерный анализ}
+      \field{year}{2017}
+    \endentry
+    \entry{Евклид_размерность}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=86d11a07b1bfeac58dc68f7a419b3039}{%
+           family={Aggarwal},
+           familyi={A\bibinitperiod},
+           given={Charu\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=498e97a23d4417319e95a6af6af725b6}{%
+           family={Hinneburg},
+           familyi={H\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=afd6b4c7bfdbc6a8849818a152ed8006}{%
+           family={Keim},
+           familyi={K\bibinitperiod},
+           given={Daniel\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9528ef0d6f5a33e2d640f8b6e2f53695}
+      \strng{fullhash}{9528ef0d6f5a33e2d640f8b6e2f53695}
+      \strng{bibnamehash}{9528ef0d6f5a33e2d640f8b6e2f53695}
+      \strng{authorbibnamehash}{9528ef0d6f5a33e2d640f8b6e2f53695}
+      \strng{authornamehash}{9528ef0d6f5a33e2d640f8b6e2f53695}
+      \strng{authorfullhash}{9528ef0d6f5a33e2d640f8b6e2f53695}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International conference on database theory}
+      \field{title}{On the surprising behavior of distance metrics in high dimensional space}
+      \field{year}{2001}
+      \field{pages}{420\bibrangedash 434}
+      \range{pages}{15}
+    \endentry
+    \entry{Манхэттен_Евклид}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f7a3bb802940d2da5f3b99045a2ebeaa}{%
+           family={Mohibullah},
+           familyi={M\bibinitperiod},
+           given={Md},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c0f8f51bd7b040bd35549aee0eefc27d}{%
+           family={Hossain},
+           familyi={H\bibinitperiod},
+           given={Md\bibnamedelima Zakir},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=fc15d2fb4681a5b7c98cb0e2cf09d8c8}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Mahmudul},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e3a9d01de5fc09d057c5dff15f39175}
+      \strng{fullhash}{0e3a9d01de5fc09d057c5dff15f39175}
+      \strng{bibnamehash}{0e3a9d01de5fc09d057c5dff15f39175}
+      \strng{authorbibnamehash}{0e3a9d01de5fc09d057c5dff15f39175}
+      \strng{authornamehash}{0e3a9d01de5fc09d057c5dff15f39175}
+      \strng{authorfullhash}{0e3a9d01de5fc09d057c5dff15f39175}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Science and Information Security (IJCSIS)}
+      \field{title}{Comparison of euclidean distance function and manhattan distance function using k-mediods}
+      \field{year}{2015}
+      \field{number}{10}
+      \range{number}{1}
+      \field{pages}{61\bibrangedash 71}
+      \range{pages}{11}
+      \field{volume}{13}
+      \range{volume}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
